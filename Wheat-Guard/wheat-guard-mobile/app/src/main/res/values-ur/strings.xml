@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ویٹ گارڈ</string>
+    <string name="auth_seq_01">AUTH_SEQ_01</string>
+    <string name="diagnostic_access">تشخیصی رسائی</string>
+    <string name="auth_subtitle">فیلڈ اینالیٹکس اور سپیکٹرل اسکیننگ تک رسائی کے لیے تصدیق کریں۔</string>
+    <string name="username_label">موبائل نمبر / ای میل</string>
+    <string name="username_placeholder">اپنا لاگ ان درج کریں...</string>
+    <string name="password_label">سیکیورٹی کلید (پاس ورڈ)</string>
+    <string name="password_placeholder">••••••••</string>
+    <string name="recover_key">کلید بحال کریں؟</string>
+    <string name="initialize_session">سیشن شروع کریں</string>
+    <string name="register_new_node">نیا اکاؤنٹ رجسٹر کریں</string>
+    
+    <string name="recent_analysis">حالیہ اسکینز</string>
+    <string name="total_scans_format">%1$d کل تعداد</string>
+    <string name="just_now">ابھی ابھی</string>
+    <string name="critical">انتہائی تشویشناک</string>
+    <string name="healthy">تندرست پتا</string>
+    
+    <string name="nav_home">ڈیش بورڈ</string>
+    <string name="nav_scan">اسکین</string>
+    <string name="nav_library">لائبریری</string>
+    <string name="nav_user">پروفائل</string>
+    
+    <string name="offline_indicator">آف لائن موڈ (TFLite)</string>
+    <string name="online_indicator">آن لائن موڈ (سرور)</string>
+    
+    <string name="role_farmer">کسان / کاشتکار</string>
+    <string name="role_advisor">زرعی مشیر</string>
+    <string name="select_role">اپنا عہدہ منتخب کریں</string>
+    <string name="phone_number">موبائل نمبر</string>
+    
+    <string name="camera_viewfinder_title">اسکیننگ کیلیبریشن</string>
+    <string name="camera_instructions">پتے کو نشانات کے اندر سیدھا رکھیں</string>
+    
+    <string name="analyzing_progress">پتے کے پیٹرن کا تجزیہ کیا جا رہا ہے...</string>
+    <string name="analyzing_subtitle">کیمرہ مت ہلائیں۔ اسکیننگ جاری ہے۔</string>
+    
+    <string name="diagnosis_result_title">تشخیصی رپورٹ</string>
+    <string name="pesticide_advisory_title">سپرے اور احتیاطی تدابیر</string>
+    <string name="disease_database_title">بیماریوں کی لائبریری</string>
+    <string name="user_profile_title">صارف کی تفصیلات</string>
+    
+    <string name="pesticide_dosage">تجویز کردہ مقدار</string>
+    <string name="safety_precautions">احتیاطی تدابیر</string>
+    <string name="view_pesticide_advisory">سپرے ایڈوائزری دیکھیں</string>
+    <string name="severity_level">شدت کی سطح</string>
+    <string name="confidence_percentage">یقینی ہونے کا تناسب</string>
+    <string name="scan_timestamp">اسکین کا وقت</string>
+    <string name="source_node">تشخیص کا ذریعہ</string>
+    
+    <string name="logout">سیشن ختم کریں</string>
+</resources>

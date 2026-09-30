@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Wheat Guard</string>
+    <string name="auth_seq_01">AUTH_SEQ_01</string>
+    <string name="diagnostic_access">Diagnostic Access</string>
+    <string name="auth_subtitle">Authenticate to access field analytics and spectral scanning protocols.</string>
+    <string name="username_label">Mobile / Email</string>
+    <string name="username_placeholder">Enter credentials...</string>
+    <string name="password_label">Security Key</string>
+    <string name="password_placeholder">••••••••</string>
+    <string name="recover_key">Recover Key?</string>
+    <string name="initialize_session">Initialize Session</string>
+    <string name="register_new_node">Register New Node</string>
+    
+    <string name="recent_analysis">Recent Analysis</string>
+    <string name="total_scans_format">%1$d TOTAL</string>
+    <string name="just_now">JUST NOW</string>
+    <string name="critical">CRITICAL</string>
+    <string name="healthy">HEALTHY</string>
+    
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_user">User</string>
+    
+    <string name="offline_indicator">OFFLINE MODE (TFLite)</string>
+    <string name="online_indicator">ONLINE MODE (Server)</string>
+    
+    <string name="role_farmer">Farmer</string>
+    <string name="role_advisor">Agricultural Advisor</string>
+    <string name="select_role">Select Node Role</string>
+    <string name="phone_number">Phone Number</string>
+    
+    <string name="camera_viewfinder_title">Viewfinder Calibration</string>
+    <string name="camera_instructions">Align leaf inside the scanning brackets</string>
+    
+    <string name="analyzing_progress">Scanning Leaf Pattern...</string>
+    <string name="analyzing_subtitle">Do not move the camera. Running crop spectral analysis.</string>
+    
+    <string name="diagnosis_result_title">Diagnosis Details</string>
+    <string name="pesticide_advisory_title">Advisory Protocol</string>
+    <string name="disease_database_title">Disease Database</string>
+    <string name="user_profile_title">Node Configuration</string>
+    
+    <string name="pesticide_dosage">Recommended Dosage</string>
+    <string name="safety_precautions">Safety Precautions</string>
+    <string name="view_pesticide_advisory">View Pesticide Advisory</string>
+    <string name="severity_level">Severity Level</string>
+    <string name="confidence_percentage">Inference Confidence</string>
+    <string name="scan_timestamp">Scan Timestamp</string>
+    <string name="source_node">Inference Source</string>
+    
+    <string name="logout">Terminate Session</string>
+</resources>
